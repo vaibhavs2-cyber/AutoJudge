@@ -45,6 +45,15 @@ Here is a breakdown of the code I wrote:
     ```bash
     streamlit run app.py
     ```
+## 🎥 Project Demo
+Watch the full 2-minute video demonstration of AutoJudge in action, including the model explanation and live testing:
+
+### ▶️ [Click Here to Watch the Demo Video](https://drive.google.com/file/d/1lQvu0jSz-jKUqYTrLfdPXSCnmJgB7A6f/view?usp=drive_link)
+
+## 📄 Project Report
+A detailed project report (PDF) has been included as part of the submission.  
+The report explains the problem statement, dataset, preprocessing steps, feature engineering, model design, experimental setup, evaluation metrics (accuracy, confusion matrix, MAE, RMSE), and the Streamlit web interface with sample predictions.
+📎 **Report file:** [Project Report (PDF)](Project_Report.pdf)
 
 ## ⚠️ Challenges & Future Work
 During this project, I discovered a significant **Class Imbalance** in the dataset. There are way more "Hard" problems (approx 1,900) than "Easy" ones (approx 700).
